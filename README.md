@@ -1,5 +1,8 @@
 ## Full-Stack Software Engineer
 
+## PROFILE  
+An accomplished and versatile Full-Stack Software Engineer with two years of dynamic experience in the software industry. As an AWS Certified Solutions Architect – Associate, I possess robust engineering knowledge and a passion for innovative and analytical problem-solving. Highly adaptable and driven by a commitment to continuous learning and professional growth, I thrive on embracing challenges. Dedicated to delivering exceptional outcomes to the organisation, both individually and collaboratively as part of a team.
+
 ## TECHNICAL SKILLS / TECHNOLOGIES
 **Programming Languages**: Java, JavaScript, Python, PHP, MATLAB  
 **Frameworks**: Spring Boot, Symfony, React, Node.js  
